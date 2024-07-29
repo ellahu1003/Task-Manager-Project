@@ -6,6 +6,9 @@ A command-line application in Python that efficiently manages user authenticatio
 ## Tchnology used
 Python
 
+## Dataset
+The dataset used for this project is stored in user.txt and tasks.txt files, containing user credentials for the admin and task details, respectively.
+
 ## Setup and Installation
 1) Clone the repository:
     ```sh
