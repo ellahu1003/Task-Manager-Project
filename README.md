@@ -12,7 +12,7 @@ The dataset used for this project is stored in user.txt and tasks.txt files, con
 ## Setup and Installation
 1) Clone the repository:
     ```sh
-   git clone https://github.com/yourusername/task-manager.git
+   git clone https://github.com/ellahu1003/task-manager.git
    cd task-manager
     ```
 2) Run the application:
